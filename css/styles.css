@@ -1,0 +1,21 @@
+/* Estos estilos corresponden al footer*/
+/*todos los estilos que estan marcados con important es por que materialize los confunce y no los da.*/
+*{
+	margin: 0;
+	padding-left: 0;
+}
+footer{
+	background-color: #4444CC !important;
+}
+.links-footer{
+	color: white !important;
+}
+.top-margin{
+	margin-top: 15px;
+}
+.links-footer:hover{
+	color: #C7C7C7 !important;
+}
+#comentario{
+	height: 100px;
+}
